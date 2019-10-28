@@ -1,6 +1,6 @@
 .idea/
 app/vendor/
-app/.env.local/
+app/.env.local
 
 ###> symfony/framework-bundle ###
 app/.env.local
