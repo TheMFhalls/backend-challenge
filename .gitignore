@@ -1,0 +1,22 @@
+.idea/
+app/vendor/
+app/.env.local/
+
+###> symfony/framework-bundle ###
+app/.env.local
+app/.env.local.php
+app/.env.*.local
+app/public/bundles/
+app/var/
+app/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+app/.phpunit
+app/.phpunit.result.cache
+app/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> symfony/web-server-bundle ###
+app/.web-server-pid
+###< symfony/web-server-bundle ###
